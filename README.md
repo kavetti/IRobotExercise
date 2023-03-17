@@ -9,18 +9,19 @@ Copy the Executable to your desired directory and run the application.
 
 ## Usage
 Open a command prompt and type ToyRobotChallenge.exe. This will show a command prompt to accept the message.
-Commands AVailable for use are:
-   HELP - Displays this Message
-"   EXIT - To End this Game
-   PLACE - To Set the Toy on the Table
-       PLACE X,Y,DIRECTION
-       Where X is the X Position From WEST to EAST. Maximum Position is 5
-             Y is the Y Position From SOUTH to NORTH. Maximum Position is 5
-             DIRECTION is the direction of the Move. N - North, S - South, E - East , W - West
-   MOVE - Move the Robot as identified by DIRECTION
-   LEFT - Change DIRECTION Counter Clockwise
-   RIGHT - Change DIRECTION Clockwise
-   REPORT - Display the Current Position and Direction
+Commands Available for use are:<BR>
+<B>HELP</B> - Displays this Message<BR>
+<B>EXIT</B> - To End this Game<BR>
+<B>PLACE</B> - To Set the Toy on the Table<BR>
+<T>Format: PLACE X,Y,DIRECTION <BR>
+Where<BR>
+X is the X Position From WEST to EAST. Maximum Position is 5<BR>
+Y is the Y Position From SOUTH to NORTH. Maximum Position is 5<BR>
+DIRECTION is the direction of the Move. N - North, S - South, E - East , W - West<BR>
+<B>MOVE</B> - Move the Robot as identified by DIRECTION <BR>
+<B>LEFT</B> - Change DIRECTION Counter Clockwise <BR>
+<B>RIGHT</B> - Change DIRECTION Clockwise <BR>
+<B>REPORT</B> - Display the Current Position and Direction <BR>
 
 ## Contributing
 1. Fork it!
@@ -28,9 +29,3 @@ Commands AVailable for use are:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
-## License
-TODO: Write license
